@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="91px" viewBox="0 0 1440 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M134.361861,68.4544753 C283.449418,18.5408154 443.188689,79.2713865 580.795137,79.2713865 C636.45848,79.2713865 667.233052,67.6383576 746.471256,67.6383576 C825.70946,67.6383576 855.802835,112.174665 1080.30024,70.4649245 C1304.79765,28.7551844 1446.14962,-30.5567267 1585.6928,18.5408154 C1725.23597,67.6383576 2013.85692,-15.2115265 2013.85692,229.856485 C2013.85692,238.768033 2011.77378,2169.96962 2007.60751,6023.46126 L1.43791955,6023.40329 C0.137241459,2167.38025 -0.281034954,235.118086 0.183090307,226.616801 C4.38136522,149.717881 49.1076221,96.9971059 134.361861,68.4544753 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -1314.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="2768"></rect>
+            <g id="Group-8" transform="translate(-287.000000, 1314.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Path-4" fill="#E8EAFB" transform="translate(1006.928459, 3011.730629) scale(-1, 1) translate(-1006.928459, -3011.730629) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
